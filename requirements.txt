@@ -1,0 +1,10 @@
+selenium
+webdriver-manager
+pytest
+playwright
+requests
+beautifulsoup4
+lxml
+openai
+python-dotenv
+fpdf2
